@@ -1,0 +1,12 @@
+{
+  "name": "greenkeeper-migrate",
+  "version": "0.0.1",
+  "dependencies": {
+    "chalk": "2.0.0"
+  },
+  "greenkeeper: {
+    "label": "greenkeeper",
+    "branchName": "greenkeeper--",
+    "ignore": ["foo", "bar"]
+  }
+}
