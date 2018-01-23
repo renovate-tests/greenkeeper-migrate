@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "labels": [
+    "renovate"
+  ],
+  "branchName": [
+    "renovate--"
+  ],
+  "ignoreDeps": [
+    "foo",
+    "bar"
+  ]
+}
