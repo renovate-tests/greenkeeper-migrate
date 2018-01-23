@@ -4,7 +4,7 @@
   "dependencies": {
     "chalk": "2.0.0"
   },
-  "greenkeeper: {
+  "greenkeeper": {
     "label": "greenkeeper",
     "branchName": "greenkeeper--",
     "ignore": ["foo", "bar"]
